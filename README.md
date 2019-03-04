@@ -1,1 +1,2 @@
-# WebScrap_Selenium_bs4
+Voici le script qui m'a permis d'extraire les infos :) 
+
