@@ -7,4 +7,8 @@ Une personne m'a demandé de l'aide pour extraire les informations sur un site (
 * Scrap le Data avec BeautifulSoup.
 * Output le Data en csv.
 
+### Output au Terminal
+![](image/output.png)
 
+### Output CSV
+![](image/csv.png)
